@@ -1,0 +1,31 @@
+body {
+    background: url(image/bg.jpeg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+   
+}
+
+.border:hover{
+    background-color: rgb(0, 81, 255);
+     
+}
+.border{
+    height: 90px;
+    font-weight: bold;
+    color: rgb(228, 228, 228);
+    text-shadow: 2px 2px 5px rgb(161, 161, 161);
+    background-color: rgba(31, 243, 243, 0.233);
+}
+h1 {
+    color: blanchedalmond;
+}
+.list-group, .list-group-item{
+    background-color: rgba(0, 0, 0, 0.555);
+}
+
+.game-over {
+    background-color: rgb(0, 81, 255);
+
+}
